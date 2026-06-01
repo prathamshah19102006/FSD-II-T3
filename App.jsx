@@ -2,12 +2,12 @@
 //import './App.css'
 //import Events1 from "./Events1"
 // import Mainr2 from "./components/Mainr2"
-import US13 from './US13.jsx'
+import F1 from './F1.jsx'
 function App() {
   return (
      <>
     {/*   <Events1/>*/}
-    <US13  />
+    <F1/>
      </> 
   )
 }
